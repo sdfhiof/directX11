@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Tech\Desktop\포폴관련 파일\Animation_소스코드\Output\animation.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Tech\Desktop\포폴관련 파일\Animation_소스코드\Output\compute.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Tech\Desktop\포폴관련 파일\Animation_소스코드\Output\deferred.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Tech\Desktop\포폴관련 파일\Animation_소스코드\Output\forward.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Tech\Desktop\포폴관련 파일\Animation_소스코드\Output\lighting.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Tech\Desktop\포폴관련 파일\Animation_소스코드\Output\math.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Tech\Desktop\포폴관련 파일\Animation_소스코드\Output\params.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Tech\Desktop\포폴관련 파일\Animation_소스코드\Output\particle.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Tech\Desktop\포폴관련 파일\Animation_소스코드\Output\shadow.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Tech\Desktop\포폴관련 파일\Animation_소스코드\Output\skybox.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Tech\Desktop\포폴관련 파일\Animation_소스코드\Output\terrain.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Tech\Desktop\포폴관련 파일\Animation_소스코드\Output\tessellation.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Tech\Desktop\포폴관련 파일\Animation_소스코드\Output\utils.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
